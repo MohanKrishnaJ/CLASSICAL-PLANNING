@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# Name:K.Rakshitha
-# Register Number:212223110039
+# Name:MOHAN KRISHNA J
+# Register Number:212223220060
 # AIM:
 To solve Implementation of Classical Planning Algorithm using python.
 
